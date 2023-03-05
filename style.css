@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+text {
+    text-align: initial;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+label {
+    text-align: initial;
+}
+
+button {
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
+
+.checkbox {
+    width: 5%;
+    text-align: initial;
+}
+
+.check {
+    text-align: initial;
+}
+
+.registerbtn {
+    background-color: rgb(40, 92, 215);
+}
+
+.signinbtn {
+    background-color: chartreuse;
+}
